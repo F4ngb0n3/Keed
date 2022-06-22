@@ -8,9 +8,9 @@ _Minecraft Home Security Plugin_
 **How To:**
 1. Walk **_RIGHT_** up to a **CLOSED** door _(Get all up in its business)_
 2. Use the `/claimhome` command whilst staring the door down
-3. **(O.P. / Perms Only)** Use the `/claimhome [player]` command to give the home to a player
-4. **Abadnoning Only** Same Step 1, and use the `/abandonhome` command.
-5. **(O.P. / Perms Only)** Use the `/abandonhome [player]` command to give up the home
+3. **(O.P. / Perms Only):** Use the `/claimhome [player]` command to give the home to a player
+4. **Abadnoning Only:** Same Step 1, and use the `/abandonhome` command.
+5. **(O.P. / Perms Only):** Use the `/abandonhome [player]` command to give up the home
 ####  
 
 ## Config
