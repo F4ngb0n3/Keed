@@ -4,6 +4,13 @@ The official documentation for the Keed Minecraft Plugin
 _Minecraft Home Security Plugin_
 
 **Keed** is a SUPER simple approach to home security in your Minecraft server! With a couple commands and a single config value, your players can ensure that their doors are locked to ONLY them, keeping their valuables safe and secure whilst they romp aboot.
+
+**How To:**
+1. Walk **_RIGHT_** up to a **CLOSED** door _(Get all up in its business)_
+2. Use the `/claimhome` command whilst staring the door down
+3. **(O.P. / Perms Only)** Use the `/claimhome [player]` command to give the home to a player
+4. **Abadnoning Only** Same Step 1, and use the `/abandonhome` command.
+5. **(O.P. / Perms Only)** Use the `/abandonhome [player]` command to give up the home
 ####  
 
 ## Config
